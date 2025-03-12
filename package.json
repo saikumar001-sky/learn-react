@@ -1,0 +1,25 @@
+{
+  "name": "learn-react",
+  "version": "1.0.0",
+  "description": "react",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saikumar001-sky/learn-react.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "sai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saikumar001-sky/learn-react/issues"
+  },
+  "homepage": "https://github.com/saikumar001-sky/learn-react#readme",
+  "dependencies": {
+    "parcel": "^2.13.3"
+  }
+}
