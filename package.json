@@ -4,7 +4,8 @@
   "description": "react",
   "main": "app.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "dev": "npx parcel index.html"
   },
   "repository": {
     "type": "git",
@@ -20,6 +21,14 @@
   },
   "homepage": "https://github.com/saikumar001-sky/learn-react#readme",
   "dependencies": {
-    "parcel": "^2.13.3"
-  }
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
 }
